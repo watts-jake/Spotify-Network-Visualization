@@ -1,6 +1,6 @@
 # Spotify-Network-Visualization
 
-similar_artists.py allows the user to visualize similar artists in a network using Spotify's API. The user can input an artist and chosse how many related artist they would like to see. They can also view artists related to those artist allowing exploration to find new artist. Clicking on an artist displays their popularity and genre.
+similar_artists.py allows the user to visualize similar artists in a network using Spotify's API. The user can input an artist and choose how many related artist they would like to see. They can also view artists related to those artist allowing more exploration to find new artists. Clicking on an artist displays their popularity and genre.
 
 The image below shows an example output.
 
